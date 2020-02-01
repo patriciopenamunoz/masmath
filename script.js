@@ -1,3 +1,4 @@
+let VERSION = "0.1.0";
 var answer = 0;
 
 document.getElementById("answer").addEventListener("keyup", validateInput);
